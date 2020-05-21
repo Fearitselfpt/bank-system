@@ -1,0 +1,44 @@
+Account with IBAN: 1 Deposited 200.9
+Account with IBAN: 1 Deposited 200.9
+Added account of type EUR to client Ionescu Ion
+Added account of type EUR to client Ionescu Ion
+Added client Ionescu Ion to bank Banca BCR
+Added client Ionescu Ion to bank Banca BCR
+Account with IBAN: 2 Deposited 400.0
+Account with IBAN: 2 Deposited 400.0
+Added account of type RON to client Ionescu Ion
+Added account of type RON to client Ionescu Ion
+Account with IBAN: 3 Deposited 100.0
+Account with IBAN: 3 Deposited 100.0
+Added account of type RON to client Marinescu Marin
+Added account of type RON to client Marinescu Marin
+Added client Marinescu Marin to bank Banca BCR
+Added client Marinescu Marin to bank Banca BCR
+Account with IBAN: 4 Deposited 700.0
+Account with IBAN: 4 Deposited 700.0
+Added account of type EUR to client Vasilescu Vasile
+Added account of type EUR to client Vasilescu Vasile
+Added client Vasilescu Vasile to bank Banca CEC
+Added client Vasilescu Vasile to bank Banca CEC
+Account with IBAN: RON3 Deposited 400.0
+Account with IBAN: RON3 Deposited 400.0
+Account with IBAN: RON3 Deposited 400.0
+Account with IBAN: RON3 Deposited 400.0
+Account with IBAN: RON3 Withdrew 67.0
+Account with IBAN: RON3 Withdrew 67.0
+Transfered 40.0 from RON3 to RON2
+Transfered 40.0 from RON3 to RON2
+Account with IBAN: RON2 Withdrew 40.0
+Account with IBAN: RON2 Withdrew 40.0
+Account with IBAN: RON3 Deposited 40.0
+Account with IBAN: RON3 Deposited 40.0
+Removed account RON2 from client Ionescu Ion from bank Banca BCR
+Removed account RON2 from client Ionescu Ion from bank Banca BCR
+Account with IBAN: 1 Deposited 640.0
+Account with IBAN: 1 Deposited 640.0
+Added account of type EUR to client Ricardo
+Added account of type EUR to client Ricardo
+Added client Ricardo to bank R821
+Added client Ricardo to bank R821
+Removed account EUR1 from client Ricardo from bank R821
+Removed account EUR1 from client Ricardo from bank R821
